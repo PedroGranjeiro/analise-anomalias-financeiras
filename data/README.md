@@ -8,4 +8,4 @@ Os dados deste projeto são sintéticos e gerados internamente pelo notebook par
 
 **- Objetivo técnico:** Tratar o baixíssimo Recall inicial (0.00 nas métricas de baseline) para conseguir identificar a classe 1 (fraude).
 
-## *Os dados foram gerados via script e estão disponíveis na pasta data/raw/ deste repositório.*
+### *Os dados foram gerados via script e estão disponíveis na pasta data/raw/ deste repositório.*
