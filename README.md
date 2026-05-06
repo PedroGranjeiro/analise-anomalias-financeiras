@@ -36,7 +36,8 @@ O projeto foi estruturado para ser leve, rodando tanto em ambientes locais quant
 1. Clone o repositório.
 2. Instale as dependências: `pip install pandas numpy scikit-learn matplotlib`.  
 3. Execute o Notebook na pasta /notebooks.
-    **- Nota: O dataset original é pesado, por isso o arquivo .gitignore está configurado para não          subir os CSVs.**
+    
+    **- Nota: O dataset original é pesado, por isso o arquivo .gitignore está configurado para não subir os CSVs.**
 
 ---
 *Projeto desenvolvido para consolidar habilidades em Ciência de Dados, Machine Learning e resolução de problemas analíticos.*
